@@ -38,3 +38,7 @@ SHA-256 é obrigatória.
 
 Relate problemas de instalação em [Issues](https://github.com/davidazevedo/recomeco-releases/issues).
 Não envie dados pessoais.
+
+## Licença
+
+Uso gratuito; código-fonte privado; não é permitido modificar nem fazer engenharia reversa. As listas de bloqueio continuam sob MIT. Veja [LICENSE](LICENSE).
